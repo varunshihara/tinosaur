@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "589854514609",
+    "firebase_url": "https://tinosaurapp.firebaseio.com",
+    "project_id": "tinosaurapp",
+    "storage_bucket": "tinosaurapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589854514609:android:339186308701721bf97190",
+        "android_client_info": {
+          "package_name": "com.tinosaur.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589854514609-maik4et8ivd9c96g7i9vtrclh90rtjmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tinosaur.app",
+            "certificate_hash": "848f9e0b637c6f0553b20e44280979053634be8e"
+          }
+        },
+        {
+          "client_id": "589854514609-jrivdhie0167srqubt281obb33ke2tnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYgv8Ptxf1aNxEPOJFZ4E6QelhhQxdJtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589854514609-jrivdhie0167srqubt281obb33ke2tnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
